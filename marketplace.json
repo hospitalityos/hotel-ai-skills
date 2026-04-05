@@ -1,0 +1,11 @@
+{
+  "name": "HospitalityOS Hotel AI Skills",
+  "description": "Enterprise-grade AI skills for hotel operations teams",
+  "plugins": [
+    {
+      "name": "hotel-intelligence-suite",
+      "description": "10 purpose-built AI skills for hotel operations — revenue management, forecasting, P&L analysis, labor optimization, reputation intelligence, and more",
+      "path": "./hotel-intelligence-suite"
+    }
+  ]
+}
