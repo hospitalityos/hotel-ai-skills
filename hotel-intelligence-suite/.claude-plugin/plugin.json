@@ -1,0 +1,28 @@
+{
+  "name": "hotel-intelligence-suite",
+  "version": "1.0.0",
+  "description": "Enterprise-grade AI operating system for hotel teams — revenue management, forecasting, P&L analysis, labor optimization, reputation intelligence, competitive intel, sales pipeline, content generation, SOP creation, and owner reporting. Built by HospitalityOS for GMs, revenue managers, finance directors, and ownership groups.",
+  "author": {
+    "name": "HospitalityOS",
+    "homepage": "https://hospitalityos.tech"
+  },
+  "repository": "https://github.com/hospitalityos/hotel-ai-skills",
+  "license": "proprietary",
+  "keywords": [
+    "hotel",
+    "hospitality",
+    "revenue-management",
+    "hotel-operations",
+    "forecasting",
+    "budgeting",
+    "labor-optimization",
+    "reputation-management",
+    "hotel-finance",
+    "owner-reporting",
+    "STR",
+    "RevPAR",
+    "hotel-AI",
+    "PMS",
+    "hotel-sales"
+  ]
+}
