@@ -309,6 +309,6 @@ All components are in place:
 
 Ready for: git push origin main
 
-Questions or issues? Contact Pete Mack (peter.mack@gmail.com)
+Questions or issues? Contact Peter Mack (peter@hospitalityos.tech)
 
 ================================================================================

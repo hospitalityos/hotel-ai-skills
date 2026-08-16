@@ -212,8 +212,8 @@ claude plugin add --marketplace https://github.com/hospitalityos/hotel-ai-skills
 
 **Organization:** HospitalityOS
 **Website:** https://hospitalityos.tech
-**Founder & Chairman:** Pete Mack
-**Email:** peter.mack@gmail.com
+**Founder & Chairman:** Peter Mack
+**Email:** peter@hospitalityos.tech
 
 **Marketplace Maintainer:** [Contact as needed]
 
@@ -292,4 +292,4 @@ hotel-ai-skills-marketplace/
 ---
 
 **Ready for deployment to GitHub**
-Contact: peter.mack@gmail.com
+Contact: peter@hospitalityos.tech

@@ -111,7 +111,7 @@ See [CONNECTORS.md](./hotel-intelligence-suite/CONNECTORS.md) for detailed integ
 **HospitalityOS**
 - Website: [hospitalityos.tech](https://hospitalityos.tech)
 - Email: hello@hospitalityos.tech
-- Founder & Chairman: Pete Mack (peter.mack@gmail.com)
+- Founder & Chairman: Peter Mack (peter@hospitalityos.tech)
 
 ---
 

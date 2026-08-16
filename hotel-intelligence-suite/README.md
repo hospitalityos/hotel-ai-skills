@@ -4,7 +4,7 @@
 
 Enterprise-grade AI operating system for hotel executive teams. 10 purpose-built skills that transform Claude into your property's operations intelligence platform — revenue management, forecasting, financial analysis, labor optimization, and more.
 
-Built by [HospitalityOS](https://hospitalityos.tech) | Created by Pete Mack, former SVP at Starwood Hotels & Resorts
+Built by [HospitalityOS](https://hospitalityos.tech) | Created by Peter Mack, former SVP at Starwood Hotels & Resorts
 
 ## Skills
 
